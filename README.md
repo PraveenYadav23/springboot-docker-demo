@@ -6,3 +6,7 @@ Steps:
 3. Create Dockerfile
 4. Build Docker Image
 5. Run Docker Image in a container
+
+Note: After creating the REST API, build the jar file of the project using mvn package
+
+Create a Dockerfile at springboot root directory.
